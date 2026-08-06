@@ -43,11 +43,10 @@
 
 | Name | Description | Tech Stack |
 | --- | --- | --- |
-| **project-shopeasy** | E-commerce project | TypeScript |
-| **e-commerce** | Amazon-style e-commerce site | React, Node, MongoDB |
-| **project-shopeassy** | AWS-based retail demo and workshop platform | Jupyter Notebook, AWS |
-| **Java-experiments** | Java experiments and practice | Java |
-
+| **[Shopeasy - E-Commerce Web App](https://github.com/apoorvbansal37/project-shopeasy)** | E-commerce web application | TypeScript |
+| **[Aethera](https://github.com/apoorvbansal37/aethera)** | Full-stack containerized application | Docker, Kubernetes, React, Next.js, Express |
+| **[Smart Irrigation System](https://github.com/apoorvbansal37/smart-irrigation-farmer-dashboard)** | IoT-based farmer dashboard for smart irrigation | ESP32, AWS |
+ 
 > *More to come soon on my portfolio...*
 
 ---
@@ -69,16 +68,11 @@
 ### 2026 Goals
 
 - Contribute more to open source
-- Build out project-shopeasy into a full production app
 - Launch personal portfolio site
 - Learn cloud infrastructure in more depth
 
 ---
 
-### Fun Fact
 
-> Add a fun fact about yourself here.
-
----
 
 Made by **Apoorv Bansal**
