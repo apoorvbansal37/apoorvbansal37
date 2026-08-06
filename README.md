@@ -1,6 +1,6 @@
 # Hi, I'm Apoorv Bansal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&width=435&lines=WEB+DEVELOPER;MACHINE+LEARNING;DEVOPS+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&width=435&lines=SOFTWARE+DEVELOPMENT;CLOUD+COMPUTING;MACHINE+LEARNING)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=apoorvbansal37&label=Profile+Views&color=1A73E8&style=flat)](https://github.com/apoorvbansal37)
 
