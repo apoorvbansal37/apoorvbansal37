@@ -43,9 +43,9 @@
 
 | Name | Description | Tech Stack |
 | --- | --- | --- |
-| **[Shopeasy - E-Commerce Web App](https://github.com/apoorvbansal37/project-shopeasy)** | E-commerce web application | TypeScript |
+| **[Shopeasy - E-Commerce Web App](https://github.com/apoorvbansal37/project-shopeasy)** | E-commerce web application | TypeScript, AWS |
 | **[Aethera](https://github.com/apoorvbansal37/aethera)** | Full-stack containerized application | Docker, Kubernetes, React, Next.js, Express |
-| **[Smart Irrigation System](https://github.com/apoorvbansal37/smart-irrigation-farmer-dashboard)** | IoT-based farmer dashboard for smart irrigation | ESP32, AWS |
+| **[Smart Irrigation System](https://github.com/apoorvbansal37/smart-irrigation-farmer-dashboard)** | IoT-based farmer dashboard for smart irrigation | ESP32, AWS, React, Vile |
  
 > *More to come soon on my portfolio...*
 
